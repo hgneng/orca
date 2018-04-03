@@ -34,7 +34,8 @@ from .orca_i18n import _
 # chnames is a dictionary where the keys represent a unicode character
 # and the values represent the common term used for the character.
 #
-chnames = {}
+#chnames = {}
+import chnames_chinese
 
 # Translators: this is the spoken word for the space character
 #

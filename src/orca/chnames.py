@@ -35,7 +35,8 @@ from .orca_i18n import _
 # and the values represent the common term used for the character.
 #
 #chnames = {}
-import chnames_chinese
+from . import chnames_chinese
+chnames = chnames_chinese.chnames
 
 # Translators: this is the spoken word for the space character
 #

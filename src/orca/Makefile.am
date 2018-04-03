@@ -17,6 +17,7 @@ orca_python_PYTHON = \
 	caret_navigation.py \
 	chat.py \
 	chnames.py \
+	chnames_chinese.py \
 	cmdnames.py \
 	colornames.py \
 	common_keyboardmap.py \
